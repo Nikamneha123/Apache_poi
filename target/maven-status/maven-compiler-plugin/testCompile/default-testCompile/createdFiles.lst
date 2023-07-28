@@ -1,0 +1,5 @@
+Com\MyStore\PageObject\LoginPage.class
+Com\MyStore\TestCases\TC_LoginTest_001.class
+Com\MyStore\TestCases\BaseClass.class
+Com\MyStore\Utilities\ReadConfig.class
+Com\MyStore\Utilities\Reporting.class
